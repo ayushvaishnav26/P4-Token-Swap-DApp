@@ -4,8 +4,6 @@ A fully functional decentralized application that allows users to **swap between
 
 Built with **Solidity**, **Hardhat**, **React.js**, and **Ethers.js**.
 
-🔗 **Live Demo**: [ayushvaishnav.com/project/p4](https://ayushvaishnav.com/project/p4)
-
 ---
 
 ## ⚙️ Features
