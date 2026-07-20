@@ -33,5 +33,5 @@ Built with **Solidity**, **Hardhat**, **React.js**, and **Ethers.js**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ayushvaishnav/P4-token-swap-dapp.git
+git clone https://github.com/ayushvaishnav26/P4-token-swap-dapp.git
 cd P4-token-swap-dapp
